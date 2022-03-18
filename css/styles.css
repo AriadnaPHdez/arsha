@@ -1,0 +1,33 @@
+main{
+    background-color: #405984;
+}
+
+.nav-custom{
+
+     background-color: #405984;
+
+}
+
+footer{
+    background-color: #f3f5fa;
+}
+
+.btn-info:hover{
+    background-color: #098be2;
+}
+
+footer img {
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(90%);
+}
+
+
+.im1:hover,.im2:hover,.im3:hover, .im4:hover,.im5:hover, .im6:hover, .im7:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 3px 0;
+    height: 2em;
+}
+
